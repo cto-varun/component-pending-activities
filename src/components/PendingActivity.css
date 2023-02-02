@@ -1,0 +1,26 @@
+.br-clr {
+    border-color: rgb(159, 158, 157);
+}
+
+.mb-1 {
+    margin-bottom: 1rem;
+}
+
+.top_row_container {
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.table_container td{
+    padding-left: 1rem !important;
+}
+.loader{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    padding:1rem 0rem;
+}   
+.loader div {
+    color:#f00;
+}
